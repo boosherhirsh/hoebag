@@ -1,0 +1,69 @@
+body {
+    background-color: #BBE1FA;
+    text-align: center;
+    font-family: comic sans ms, sans-serif;
+}
+
+    hr {
+        border-style: none;
+        border-top-color: #3282B8;
+        border-top-style: dotted;
+        border-width: 8px;
+        width: 10%;
+        margin: 0 auto;
+
+}
+    h1 {
+        font-size: 5rem;
+        color: #0F4C75;
+        margin: auto;
+        font-family: 'Kaushan Script', cursive;
+    }
+    h2 {
+        font-size: 1.1rem;
+        font-weight: normal;
+        color: #0f5e9c;
+
+    }
+    h3 {
+        color: #3282B8;
+        margin: 0 auto;
+
+    }
+.center {
+    margin: 0 auto;
+}
+.dots {
+    display: inline-block;
+    text-align: left;
+}
+
+.dooface_one {
+    width: 50%;
+    margin: 50px auto 50px;
+
+
+
+}
+.dooface_two {
+
+    margin: 50px 0px 50px 200px;
+
+
+
+}
+.dooface-img-one {
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+
+}
+.dooface-img-two {
+    width: 20%;
+    float: right;
+    margin-right: 80px;
+
+}
+
+}
+
